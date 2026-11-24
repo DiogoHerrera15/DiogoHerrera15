@@ -253,17 +253,20 @@ Desenvolvimento e aprimoramento de soluções automatizadas para processos opera
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoHerrera15/DiogoHerrera15/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoHerrera15/DiogoHerrera15/output/github-snake.svg"/>
-  <img width="100%" alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DiogoHerrera15/DiogoHerrera15/output/github-snake.svg"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoHerrera15/DiogoHerrera15/output/github-snake-dark.svg?v=3"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoHerrera15/DiogoHerrera15/output/github-snake.svg?v=3"/>
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/DiogoHerrera15/DiogoHerrera15/output/github-snake-dark.svg?v=3"/>
+  </picture>
 
 </div>
+
+
 
 ---
 
